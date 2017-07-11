@@ -1,0 +1,98 @@
+﻿1、更新时更新到了node...文件，导致工作空间“堵塞”。
+   到<workspace>\.metadata\.plugins\org.eclipse.core.resources目录，
+   删除文件 .snap  
+
+
+5.3
+
+外勤签收入口：
+签收入口：
+  1.取得userId问题，之前外勤端取得userId是通过seession来取，改造后
+    放在缓存中，但提供缓存的方法还没写好
+  2.流程处理成功后更新相关子系统的问题，改处用到了事件处理的模块，
+    对于之前事件处理模块部分，还没有了解到，今天做到涉及这一块的时候，
+    看不明白实现的原理
+
+    解决思路：找何国康，苏林文了解这一块的具体功能以及实现的原理，对
+    这些涉及到的技术要有所了解，找到处理这一块的方法.
+
+
+http://blog.csdn.net/educast/article/details/49633847
+
+
+//重构工作空间
+错误: 找不到或无法加载主类 com.foresee.ftcsp.wechat.rest.WeChatApplication
+
+
+//Spring  手动事务回滚（多个事务），单个事务，Spring AOP运行异常回滚
+http://blog.csdn.net/yipanbo/article/details/46048413
+
+
+mysql创建定时任务，事件调度
+
+
+http://www.cnblogs.com/ChrisMurphy/p/5224160.html 
+wsdl2java  调用webService服务
+
+图片转为Base64存储
+java 图片压缩
+http://blog.csdn.net/personbing/article/details/50790472
+
+
+maven 私服
+http://www.cnblogs.com/demingblog/p/3840174.html
+
+
+域名、发布
+
+
+Spring boot
+Spring Clound 
+
+JVM、常见工具类、JSON互转、正则表达式、图片验证码、手机号码校验、ID、Hadoop
+网上在线支付
+
+JenKins
+http://www.yiibai.com/jenkins/jenkins_continuous_deployment.html      //主要学习的地方
+http://m.blog.csdn.net/Evankaka/article/details/50518959
+https://wenku.baidu.com/view/cbbd08b355270722182ef758.html
+https://segmentfault.com/a/1190000007467399   //maven
+
+
+
+技术分享：
+http://www.ed2000.com/ShowFile.asp?FileID=221694
+
+传智播客：
+webService交互式数据
+
+翻墙
+
+eclipse rt包
+https://wenku.baidu.com/view/81652c3c866fb84ae45c8d39.html
+
+
+redits
+
+nginx
+
+微信开发、HTTP请求工具封装、JDBC请求工具封装
+
+
+//前端论坛
+http://www.w3cplus.com/
+
+外网和内网的区别？
+
+//JDBC关于Connection, PreparedStatement, ResultSet是否关闭的一些思考
+http://blog.csdn.net/wc0077/article/details/51083374
+
+包命名规则：
+com.公司名.项目名.模块名....
+
+Servlet: 蛮好的
+http://www.cnblogs.com/hxsyl/p/3435412.html
+
+
+
+
