@@ -2,25 +2,10 @@
    到<workspace>\.metadata\.plugins\org.eclipse.core.resources目录，
    删除文件 .snap  
 
-
-5.3
-
-外勤签收入口：
-签收入口：
-  1.取得userId问题，之前外勤端取得userId是通过seession来取，改造后
-    放在缓存中，但提供缓存的方法还没写好
-  2.流程处理成功后更新相关子系统的问题，改处用到了事件处理的模块，
-    对于之前事件处理模块部分，还没有了解到，今天做到涉及这一块的时候，
-    看不明白实现的原理
-
-    解决思路：找何国康，苏林文了解这一块的具体功能以及实现的原理，对
-    这些涉及到的技术要有所了解，找到处理这一块的方法.
-
-
 http://blog.csdn.net/educast/article/details/49633847
 
 
-//重构工作空间
+//重构工作空间，clean项目结构
 错误: 找不到或无法加载主类 com.foresee.ftcsp.wechat.rest.WeChatApplication
 
 
@@ -50,7 +35,7 @@ Spring boot
 Spring Clound 
 
 JVM、常见工具类、JSON互转、正则表达式、图片验证码、手机号码校验、ID、Hadoop
-网上在线支付
+网上在线支付、UUID32位随机数生成、MD5码加密解密、加密盐算法、手机短信发送第三方、第三方接口登陆了
 
 JenKins
 http://www.yiibai.com/jenkins/jenkins_continuous_deployment.html      //主要学习的地方
@@ -93,6 +78,15 @@ com.公司名.项目名.模块名....
 Servlet: 蛮好的
 http://www.cnblogs.com/hxsyl/p/3435412.html
 
+//泛型基础讲解，很清晰
+http://www.cnblogs.com/lwbqqyumidi/p/3837629.html
 
+反射
+http://yuncode.net/code/c_51fca6e300b5b88
+http://blog.csdn.net/linlinv3/article/details/37813873
+http://blog.csdn.net/djdjdj2007/article/details/4723216
+http://www.cnblogs.com/lzq198754/p/5780331.html
 
+通过反射机制来copy一个类，旧实体类的属性赋值到新实体类的属性中
+http://blog.csdn.net/weixin_35813749/article/details/53524700
 
