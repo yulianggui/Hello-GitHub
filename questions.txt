@@ -86,7 +86,22 @@ http://yuncode.net/code/c_51fca6e300b5b88
 http://blog.csdn.net/linlinv3/article/details/37813873
 http://blog.csdn.net/djdjdj2007/article/details/4723216
 http://www.cnblogs.com/lzq198754/p/5780331.html
+http://blog.csdn.net/z69183787/article/details/8443777            /invoke
 
 通过反射机制来copy一个类，旧实体类的属性赋值到新实体类的属性中
 http://blog.csdn.net/weixin_35813749/article/details/53524700
+
+//知乎，关于Java程序员进阶的一些看法
+https://www.zhihu.com/question/59725713/answer/168294369?utm_source=qq&utm_medium=social
+
+//Mybatis xml转义字符，  大于号，小于号等等
+
+#Spring Redis进阶（深入了解 -- blog）
+http://www.cnblogs.com/luochengqiuse/p/4638988.html
+#Spring 集成Redis
+http://blog.csdn.net/fei565789229/article/details/51635466
+#Redis 初识Redis
+http://www.runoob.com/redis/redis-java.html   
+#windows平台安装Redis
+http://www.cnblogs.com/edisonfeng/p/3571870.html
 
