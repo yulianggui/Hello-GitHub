@@ -29,7 +29,9 @@ http://www.cnblogs.com/demingblog/p/3840174.html
 
 
 域名、发布
-
+#阿里云
+https://help.aliyun.com/contact/introduction/ecs.html
+https://help.aliyun.com/document_detail/25367.html?spm=5176.7842541.6.539.hBR9MV
 
 Spring boot
 Spring Clound 
@@ -104,4 +106,37 @@ http://blog.csdn.net/fei565789229/article/details/51635466
 http://www.runoob.com/redis/redis-java.html   
 #windows平台安装Redis
 http://www.cnblogs.com/edisonfeng/p/3571870.html
+
+
+远程连接工具：
+#SecureCRT:
+http://www.orsoon.com/Soft/150273.html
+#XShell:
+xshell 、putty、SecureCRT、SSH Secure Shell Slient
+
+#ES6
+https://segmentfault.com/a/1190000004365693
+https://segmentfault.com/a/1190000004368132
+http://es6.ruanyifeng.com/#docs/let   ES6语法（书）
+ES5 只有全局作用域和函数作用域，没有块级作用域，这带来很多不合理的场景。
+
+#Node.js   global,process  
+http://javascript.ruanyifeng.com/nodejs/basic.html#toc22
+#Vue  配置文件
+http://www.cnblogs.com/whkl-m/p/6627864.html
+
+#长轮询
+
+#微信支付
+公众号支付，开发文档
+https://pay.weixin.qq.com/wiki/doc/api/jsapi.php?chapter=7_4
+#微信支付Blog
+http://m.blog.csdn.net/cjm495580074/article/details/53436638 
+
+#支付宝支付
+http://www.cnblogs.com/mayi1/p/5647674.html
+
+#Linux视频
+https://chuanke.baidu.com/v1828532-174060-860726.html 
+
 
