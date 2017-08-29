@@ -154,6 +154,21 @@ https://zhuanlan.zhihu.com/p/20367175?columnSlug=FrontendMagazine
 http://blog.csdn.net/hongchh/article/details/55113751
 http://blog.csdn.net/hongchh/article/details/54744318
 
+#Web容器和Web应用服务器
+https://wenku.baidu.com/view/57d8e33b31126edb6f1a10dc.html      #Tomcat简介
+http://www.cnblogs.com/wangcp-2014/p/5578505.html 
 
+# Ngrok  、 花生壳
+https://www.ngrok.cc/
+https://wenku.baidu.com/view/9ec683c432d4b14e852458fb770bf78a65293a35.html
 
+#部署
+http://blog.csdn.net/oqidai123456/article/details/38437613 
 
+#微信页面授权
+https://zhidao.baidu.com/question/1303627230532721299.html
+http://www.jianshu.com/p/5b4b009a0864
+http://jingyan.baidu.com/article/597a064361ae68312b5243b5.html 
+
+#微信开发入门
+http://www.cnblogs.com/deng-cc/p/6795425.html
