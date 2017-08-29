@@ -139,4 +139,21 @@ http://www.cnblogs.com/mayi1/p/5647674.html
 #Linux视频
 https://chuanke.baidu.com/v1828532-174060-860726.html 
 
+#web route和router
+在 router 匹配 route 的过程中，不仅会根据URL来匹配，还会根据请求的方法来看是否匹配。
+例如上面的例子，如果通过 POST 方法来访问 /users，就会找不到正确的路由。
+
+
+#Http请求响应原理
+
+#webpack:
+https://doc.webpack-china.org/guides/getting-started/
+https://zhuanlan.zhihu.com/p/20367175?columnSlug=FrontendMagazine
+
+#veu init webpack 目录
+http://blog.csdn.net/hongchh/article/details/55113751
+http://blog.csdn.net/hongchh/article/details/54744318
+
+
+
 
