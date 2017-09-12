@@ -64,8 +64,10 @@ redits
 nginx
 
 微信开发、HTTP请求工具封装、JDBC请求工具封装
-
-
+#Http
+http://www.cnblogs.com/zhuawang/archive/2012/12/08/2809380.html 
+#apache HttpClient
+http://www.cnblogs.com/QQParadise/articles/5020215.html
 //前端论坛
 http://www.w3cplus.com/
 
@@ -158,6 +160,7 @@ http://blog.csdn.net/hongchh/article/details/54744318
 https://wenku.baidu.com/view/57d8e33b31126edb6f1a10dc.html      #Tomcat简介
 http://www.cnblogs.com/wangcp-2014/p/5578505.html 
 
+
 # Ngrok  、 花生壳
 https://www.ngrok.cc/
 https://wenku.baidu.com/view/9ec683c432d4b14e852458fb770bf78a65293a35.html
@@ -172,3 +175,14 @@ http://jingyan.baidu.com/article/597a064361ae68312b5243b5.html
 
 #微信开发入门
 http://www.cnblogs.com/deng-cc/p/6795425.html
+
+#Tomcat,Servlet
+
+#Nginx
+http://blog.csdn.net/xo_zhang/article/details/8995756          #NGweb服务器
+http://www.cnblogs.com/chuncn/archive/2011/10/14/2212291.html
+http://blog.csdn.net/eric_sunah/article/details/51218955
+
+#sign签名
+http://blog.csdn.net/zhangdaiscott/article/details/49690741
+
