@@ -60,7 +60,7 @@ https://wenku.baidu.com/view/81652c3c866fb84ae45c8d39.html
 
 
 redits
-
+BigDecimal
 nginx
 
 微信开发、HTTP请求工具封装、JDBC请求工具封装
@@ -188,4 +188,51 @@ http://blog.csdn.net/zhangdaiscott/article/details/49690741
 
 #jdk源码阅读之路
 #http://blog.csdn.net/kongjing0815/article/details/6710721
+
+#mysql存储函数，过程，delimiter的作用
+http://www.cnblogs.com/lmule/archive/2010/09/28/1837303.html
+#mysql 左外链接
+http://www.cnblogs.com/amyStart/p/5965472.html
+
+#My SQL
+CASE WHEN语句，简单case和case搜索
+http://www.cnblogs.com/clphp/p/6256207.html
+#group by语句中select指定的字段必须是“分组依据字段”，其他字段若想出现在select中则必须包含在聚合函数中，常见的聚合函数如下表：
+#但是一种情况例外，就是当某字段名下边的数据有null值的时候，不计入这个count中，*则全部列入count中
+#explain解释器可以看到SQL的执行计划如下：
+
+
+#Mybatis
+where标签，以及字段的函数<if test="name != null and name.length()>0" >
+http://www.cnblogs.com/qiankun-site/p/5762342.html
+trim标签，prefix：前缀，prefixoverride：去掉第一个and或者是or   和set标签
+http://www.cnblogs.com/qiankun-site/p/5758924.html
+foreach标签
+http://www.cnblogs.com/lyxy/p/6253133.html
+http://www.cnblogs.com/fangyu19900812/p/6046209.html
+item表示集合中每一个元素进行迭代时的别名，
+index指 定一个名字，用于表示在迭代过程中，每次迭代到的位置，
+open表示该语句以什么开始，
+separator表示在每次进行迭代之间以什么符号作为分隔 符，
+close表示以什么结束。
+
+更新常用set，if
+查询常用if，trim，foreach，when，choose，where
+
+mybatis,批量插入，更新
+http://blog.csdn.net/levelmini/article/details/49451023
+
+#困惑已久的区域树查询
+先查出这个区域的所有子区域，在子区域通一字段中，查出是否有子区域，并设置为一个标志字段。
+
+#Mysql
+sysdate()
+if语句
+case语句
+
+mysql workbench
+
+
+
+
 
