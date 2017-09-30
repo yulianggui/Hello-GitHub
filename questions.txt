@@ -233,6 +233,46 @@ case语句
 mysql workbench
 
 
+#单元测试
+
+#启动。配置，追踪请求
+-DsetProxy=true
+-Dhttp.proxyHost=127.0.0.1
+-Dhttp.proxyPort=8888
+
+#应该感兴趣小程序（图解HTTP）
+1、网络爬虫
+2、分析抓包数据
+3、实现HTTP服务器
+4、提供网站REST API
+5、修改后端定制框架
+
+MySQL  数据迁移后，数据校验（工具）
+
+#好工具：cnki文献下载工具
+http://fuliba.net/cnki%E6%96%87%E7%8C%AE%E4%B8%8B%E8%BD%BD%E5%B7%A5%E5%85%B7.html
+
+//nexus
+http://www.cnblogs.com/kevingrace/p/6201984.html
+http://blog.csdn.net/xyzjl/article/details/53148398
+https://www.ilanni.com/?p=12366    //2.x linux
+
+重要
+http://blog.csdn.net/liujiahan629629/article/details/39272321
+http://blog.csdn.net/readiay/article/details/50817494
+http://blog.csdn.net/jiejie11080/article/details/54275567
+http://blog.csdn.net/u010342038/article/details/50585153
+
+索引手动下载
+#http://repo1.maven.org/maven2/.index/
+http://blog.csdn.net/u010342038/article/details/50585153
+http://repo1.maven.org/maven2/.index/
+去到上面的网址下载(最好下载页面最后的包)：nexus-maven-repository-index.gz  nexus-maven-repository-index-packer.properties
+http://maven.outofmemory.cn/org.apache.maven.indexer/indexer-cli/5.1.1/
+去到上面的网址下载索引器的包indexer-cli-5.1.1
+把下载包放到同一目录，然后到电脑--控制台（cmd）进入到你下载包的目录下运行一条命令：
+java -jar indexer-cli-5.1.1.jar -u nexus-maven-repository-index.gz -d indexer
+
 
 
 
