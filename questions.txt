@@ -274,5 +274,34 @@ http://maven.outofmemory.cn/org.apache.maven.indexer/indexer-cli/5.1.1/
 java -jar indexer-cli-5.1.1.jar -u nexus-maven-repository-index.gz -d indexer
 
 
+#AOP
+https://matrixseven.github.io/2015/12/08/%E4%BD%BF%E7%94%A8Java%E5%8E%9F%E7%94%9F%E4%BB%A3%E7%90%86%E5%AE%9E%E7%8E%B0AOP/
+#注解
+https://zhuanlan.zhihu.com/p/27643133
+https://www.zhihu.com/question/47449512
+https://matrixseven.github.io/2015/12/09/%E4%BD%BF%E7%94%A8Java%E5%8E%9F%E7%94%9F%E4%BB%A3%E7%90%86%E5%AE%9E%E7%8E%B0%E6%B3%A8%E5%85%A5/
+
+
+#设计模式
+1.适配模式
+类适配、对象适配、接口适配（思考：如果两个接口具有相同的方法，怎么破）
+http://www.cnblogs.com/V1haoge/p/6479118.html
+
+#mybatis 插件：
+http://blog.csdn.net/zmken497300/article/details/54316131
+http://www.cnblogs.com/renboqie/p/5637026.html  #importance
+http://www.cnblogs.com/JsonShare/p/5521901.html
+https://my.oschina.net/foxeye/blog/490655
+
+#linux  安装Tomcat
+#nohup  后台执行
+http://www.cnblogs.com/xdp-gacl/p/4097608.html 
+http://www.linuxidc.com/Linux/2015-08/122241.htm 
+
+#war包
+http://blog.csdn.net/tanga842428/article/details/52233277
+ps-aux|grep tomcat
+
+
 
 
