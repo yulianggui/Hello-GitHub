@@ -298,6 +298,15 @@ https://my.oschina.net/foxeye/blog/490655
 http://www.cnblogs.com/xdp-gacl/p/4097608.html 
 http://www.linuxidc.com/Linux/2015-08/122241.htm 
 
+#查看端口被哪个进程占用
+lsof -i:8081
+
+查看进程信息：2208，进程号
+# ps axu | grep 2208
+
+#防火墙配置，开放端口
+/etc/sysconfig/iptables 
+
 #war包
 http://blog.csdn.net/tanga842428/article/details/52233277
 ps-aux|grep tomcat
