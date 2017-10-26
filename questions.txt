@@ -179,9 +179,14 @@ http://www.cnblogs.com/deng-cc/p/6795425.html
 #Tomcat,Servlet
 
 #Nginx
+#importance(配置，文档等)
+http://www.nginx.cn/76.html
+https://jingyan.baidu.com/article/f3e34a12a9c1c3f5eb6535d4.html
+
 http://blog.csdn.net/xo_zhang/article/details/8995756          #NGweb服务器
 http://www.cnblogs.com/chuncn/archive/2011/10/14/2212291.html
 http://blog.csdn.net/eric_sunah/article/details/51218955
+
 
 #sign签名
 http://blog.csdn.net/zhangdaiscott/article/details/49690741
@@ -301,6 +306,16 @@ http://www.linuxidc.com/Linux/2015-08/122241.htm
 #war包
 http://blog.csdn.net/tanga842428/article/details/52233277
 ps-aux|grep tomcat
+
+
+#大数据查询优化思路（粗略）
+1、简化查询逻辑，大表尽量单表查询，所有查询条件都使用索引，尽量使用主键排序；
+2、使用字典翻译，字典翻译结果可以缓存，可以优化字典翻译支持多字段及批量翻译；
+3、用户、客户、商品等变化不频繁的数据尽量主动缓存到redis及es，redis用于单个对象数据的查询及字典翻译，es用于大数据的快速检索；
+4、复杂的查询或报表不要直接查询mysql，可以导入es或hadoop做数据预处理与搜索；
+
+#MySql索引
+http://www.cnblogs.com/chenshishuo/p/5030029.html
 
 
 
