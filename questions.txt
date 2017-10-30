@@ -317,6 +317,22 @@ ps-aux|grep tomcat
 #MySql索引
 http://www.cnblogs.com/chenshishuo/p/5030029.html
 
+#推荐书籍
+深入分析Java Web技术内幕
+spring源码深入理解
+深入了解Java虚拟机
+Java微服务
+Spring cloud
+设计模式之禅
+docker
+O'Reilly：Head First设计模式
+java高并发程序设计
+亿级流量网站架构核心技术
+大型网站系统与Java中间件实践
+Linux运维之道
+
+
+
 
 
 
