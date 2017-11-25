@@ -236,6 +236,7 @@ if语句
 case语句
 
 mysql workbench
+分区:PARTITION by
 
 
 #单元测试
@@ -340,6 +341,27 @@ java高并发程序设计
 大型网站系统与Java中间件实践
 Linux运维之道
 
+#运营平台
+基础服务：统一认证、统一登录、统一支付、公司客户数据、订单中心
+		  商品中心、客服工单、文件OSS文件网关
+          运营报表统计（微信运行推广、）
+
+Jquery		  
+https://github.com/nefe/You-Dont-Need-jQuery/blob/master/README.zh-CN.md		
+
+
+#
+存储过程思路(导入数据)
+http://blog.csdn.net/u013399093/article/details/54585785            快速
+http://blog.csdn.net/maoyeqiu/article/details/53139245              介绍
+
+#游标  int
+http://blog.csdn.net/caoliu1024cl/article/details/77742156
+#游标  false，简洁
+https://www.cnblogs.com/trying/p/3296793.html  
+
+#java常量池
+http://blog.csdn.net/qq_34598667/article/details/53183680
 
 
 
