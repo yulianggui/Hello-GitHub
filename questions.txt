@@ -326,6 +326,8 @@ ps-aux|grep tomcat
 
 #MySql索引
 http://www.cnblogs.com/chenshishuo/p/5030029.html
+https://www.cnblogs.com/tgycoder/p/5410057.html
+
 
 #推荐书籍
 深入分析Java Web技术内幕
@@ -363,7 +365,30 @@ https://www.cnblogs.com/trying/p/3296793.html
 #java常量池
 http://blog.csdn.net/qq_34598667/article/details/53183680
 
+mysql:update的特性
+1、update 时，更新的表不能在set和where中用于子查询；
+2、update 时，可以对多个表进行更新（sqlserver不行）；
+         如：update ta a,tb b set a.Bid=b.id ,b.Aid=a.id;  
+3、update 后面可以做任意的查询，这个作用等同于from；
+https://www.cnblogs.com/007sx/p/7404651.html
+	#比较1
+UPDATE key_info k1,(SELECT nid,nick FROM key_info  WHERE adddate=CURRENT_DATE-1 and isTmall=4)k2 
+SET k1.nick=k2.nick 
+WHERE k1.nid = k2.nid AND k1.adddate=CURRENT_DATE
+	#比较2
+UPDATE  t_sec_department t1 SET t1.area = (SELECT area_code FROM `t_sec_department_area` t2 WHERE  t1.dep_id = t2.dep_id)
+WHERE t1.create_user = 'sql_create_ydt' AND t1.create_date = '2017-12-08 12:00:00' 	
 
+#诡异的sql  update
+http://blog.csdn.net/zyz511919766/article/details/49335827
 
+#sql执行顺序
+http://blog.csdn.net/u014044812/article/details/51004754
+http://blog.csdn.net/u014044812/article/details/51004754   
 
+#mysql 不支持对同一个表查询后做修改，通过取别名的方式
+http://blog.csdn.net/u012102536/article/details/61196646
+
+@spring aop自定义注解
+https://www.cnblogs.com/larryzeal/p/5829877.html
 
