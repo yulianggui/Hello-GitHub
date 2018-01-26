@@ -392,3 +392,5 @@ http://blog.csdn.net/u012102536/article/details/61196646
 @spring aop自定义注解
 https://www.cnblogs.com/larryzeal/p/5829877.html
 
+红帽子讲座视频
+http://www.linuxprobe.com/redhat-certificate
