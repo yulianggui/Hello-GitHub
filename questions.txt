@@ -7,6 +7,8 @@ http://blog.csdn.net/educast/article/details/49633847
 
 //重构工作空间，clean项目结构
 错误: 找不到或无法加载主类 com.foresee.ftcsp.wechat.rest.WeChatApplication
+-- 找不到主类
+http://blog.csdn.net/chenleixing/article/details/44816629
 
 
 //Spring  手动事务回滚（多个事务），单个事务，Spring AOP运行异常回滚
@@ -92,8 +94,12 @@ http://blog.csdn.net/djdjdj2007/article/details/4723216
 http://www.cnblogs.com/lzq198754/p/5780331.html
 http://blog.csdn.net/z69183787/article/details/8443777            /invoke
 
+#反射的使用场景，常用方法一一列出
+https://www.cnblogs.com/whoislcj/p/6038511.html  
 通过反射机制来copy一个类，旧实体类的属性赋值到新实体类的属性中
 http://blog.csdn.net/weixin_35813749/article/details/53524700
+http://blog.csdn.net/stevenhu_223/article/details/9286121
+
 
 //知乎，关于Java程序员进阶的一些看法
 https://www.zhihu.com/question/59725713/answer/168294369?utm_source=qq&utm_medium=social
@@ -394,3 +400,151 @@ https://www.cnblogs.com/larryzeal/p/5829877.html
 
 红帽子讲座视频
 http://www.linuxprobe.com/redhat-certificate
+
+#一个问题，静态类在并发状态下的情况，什么时候会出现并发问题
+http://blog.csdn.net/shao_win/article/details/52191776
+
+#SSO
+http://blog.csdn.net/u014445339/article/details/74301489
+
+token解决登录问题
+#https://my.oschina.net/liuyuantao/blog/875868
+
+#ajax 扩展error用来重定向
+http://blog.csdn.net/zwrefine/article/details/77807440
+
+#表单重提交
+https://www.cnblogs.com/zztt/p/4093884.html
+
+#API网关ppt
+https://wenku.baidu.com/view/34058bf15ff7ba0d4a7302768e9951e79b8969e5.html
+https://baijiahao.baidu.com/s?id=1575677360527035&wfr=spider&for=pc
+http://t.cn/R9DZZ0h  //视频
+
+// 有意思的ftp
+ftp://ftp1.linuxidc.com
+用户名：ftp1.linuxidc.com
+密码：www.linuxidc.com
+
+#info -- waran　-- error -- fatal
+http://blog.csdn.net/rogger_chen/article/details/50587920
+http://blog.csdn.net/yingxiake/article/details/51274426
+
+//servlet
+Servlet是单实例多线程运行方式，所以对象变量线程不安全，局部变量线程安全。
+成员变量在堆中开辟内存，临时变量在栈中开辟内存
+
+
+#周怡分布式任务调度
+http://doc.jchl.com/index.do#/web/article/detail/web/ARTICLE/ffff-1517988739450-981318-0014
+http://cloud.z1w0.com/f/b59237ebfcda4e658adf/
+
+#cookie和seesion的理解
+https://www.zhihu.com/question/19786827
+http://blog.51cto.com/lavasoft/275589
+https://www.cnblogs.com/xdp-gacl/p/3855702.html  -- 禁用cookie
+
+https://www.cnblogs.com/aaron911/p/7889353.html
+
+#js回调
+https://www.cnblogs.com/gaosheng-221/p/6045483.html
+
+#mysql 禁用没有where的update和delete
+https://www.cnblogs.com/wjoyxt/p/5620827.html
+
+#mysql 安装教程windows
+!IXP)J!2w&ok
+http://blog.csdn.net/u013948858/article/details/72472026
+https://jingyan.baidu.com/article/597035521d5de28fc00740e6.html
+
+#张孝祥 多线程
+http://v.baidu.com/v?ct=301989888&rn=20&pn=0&db=0&s=25&ie=utf-8&word=java%20%E5%A4%9A%E7%BA%BF%E7%A8%8B%E8%A7%86%E9%A2%91%20%E7%A5%A5
+
+#SpringMVC之RequestContextHolder分析
+http://blog.csdn.net/zzy7075/article/details/53559902 
+https://www.cnblogs.com/winner-0715/p/6270513.html
+
+#书籍推荐
+https://www.douban.com/note/533759734/?type=rec
+博客 java-my-life
+
+
+https://www.cnblogs.com/RunForLove/p/4641672.html
+
+#web中几个上下文环境的理解
+https://www.cnblogs.com/shuaishuai1993/p/6697868.html
+http://blog.csdn.net/crazylzxlzx/article/details/53648625
+
+#RabbitMQ
+
+
+Jackson库 -- 
+
+-- spring boot 中CommandLineRunner和ApplicationRunner
+http://blog.csdn.net/gebitan505/article/details/55047819
+-- spring boot 注解自动配置
+http://rensanning.iteye.com/blog/2363467
+
+-- spring 是否要使用注解驱动
+http://blog.csdn.net/Konaji/article/details/52816367
+
+-- 第三方登录
+https://www.cnblogs.com/chenhao-/p/7205207.html
+
+
+https://blog.csdn.net/lw7551/article/details/62426579
+
+https://github.com/he-shuyuan/wechat
+
+串行执行，并行
+
+分布式事务，多节点部署
+
+多节点部署，for循环处理数据库记录的问题
+
+分页查询
+https://www.cnblogs.com/liuying1995/p/6723417.html
+https://www.cnblogs.com/web-v/articles/6510217.html
+
+挖矿病毒
+https://zhuanlan.zhihu.com/p/34587314
+https://blog.csdn.net/jiajiren11/article/details/79806940
+
+#用例模型demo
+https://kb.cnblogs.com/page/129491/
+
+#java各版本特性
+https://blog.csdn.net/qq_38397969/article/details/79768768
+
+幕布
+https://mubu.com/inv/968656
+
+查看密码：
+吧type改为text
+
+
+#禁掉spring clound默认配置
+spring.cloud.config.enabled=false
+
+#Redis分布式锁原理
+https://www.cnblogs.com/liuyang0/p/6744076.html
+
+#effective java 8 覆盖equals时请遵守通用约定
+https://blog.csdn.net/plain_maple/article/details/55513865
+
+#effective java 15 是可变性最小
+https://blog.csdn.net/a921122/article/details/54775877
+
+#技术文档
+http://doc.jchl.com/index.do#
+
+
+#如何理解？？？
+public ForeseeMessageListener() {
+        entityClass = (Class<T>) ((ParameterizedType) getClass().getGenericSuperclass()).getActualTypeArguments()[0];
+    }
+https://blog.csdn.net/wangcong2005/article/details/17144665
+SimpleMessageListenerContainer 异步收消息
+
+
+
